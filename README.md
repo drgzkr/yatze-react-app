@@ -6,6 +6,7 @@
 **Yahtzee Pro** is a modern, responsive web application built with React and Tailwind CSS that pits you against a powerful AI opponent. This isn't just a simple Yahtzee game; the core feature is the **Pro Strategy Advisor**, which calculates the highest Expected Value (EV) for every roll decision, helping you master optimal Yahtzee strategy.
 
 The game supports both a "Standard" bot (using static heuristics) and a "Pro" bot (using dynamic, goal-aware weights).
+## 🎲 [Play Here](https://drgzkr.github.io/yatze-react-app/) 🎲
 
 ## ✨ Features
 
