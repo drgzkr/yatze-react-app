@@ -1,8 +1,3 @@
-I apologize for that confusion\! The previous response was provided inside a Markdown file block, which sometimes gets rendered dynamically.
-
-Here is the exact, raw Markdown text for the `README.md` file, provided directly in the chat so you can easily copy all the characters, including the backticks and syntax.
-
-````
 # 🎲 Yahtzee Pro: The Optimal Strategy Trainer
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -101,4 +96,3 @@ The `npm run deploy` command will build your application into the `build` folder
 * **Styling**: Tailwind CSS
 * **Icons**: Lucide React
 * **Core Logic**: Vanilla JavaScript (for the probabilistic AI engine)
-````
